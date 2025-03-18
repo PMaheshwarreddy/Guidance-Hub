@@ -13,7 +13,4 @@ Mentor Connect is a space where anyone seeking guidance in their professional ca
 - Once an appointment is booked, the user is directed to their profile page which will display profile information, along with all appointments the user has booked. 
 - From here, the user can also update or cancel (delete) their appointments if necessary.
 
-- [Courtney Fairall](https://github.com/cnfairall)
-- [Dylan Moore](https://github.com/dylankmoore)
-- [Nathan Clover](https://github.com/cloverww04)
-- [Sheryl Boles](https://github.com/reneesb)
+
